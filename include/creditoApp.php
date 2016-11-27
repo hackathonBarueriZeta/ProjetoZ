@@ -1,0 +1,1 @@
+<strong>Desenvolvedores: </strong>Anézio Fidalgo && Lucas Molnar by <a href="#">Ctrl Zeta</a>
